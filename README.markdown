@@ -4,9 +4,9 @@
 <p>Estudando desenvolvimento web com HTML5, CSS3 e JavaScript. Desenvolvendo também com PHP e WordPress.</p>
 
 <div align="center">
-  <a href="https://github.com/lucasnsouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasnsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnsouza&layout=compact&langs_count=7&theme=dark"/>
+<a href="https://github.com/lucasnsouza">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasnsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnsouza&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <h4>Languages and tools:</h4>
