@@ -1,7 +1,7 @@
 <h1>Lucas Souza</h1>
 
 <h2>Sobre mim</h2>
-<p>Estudando desenvolvimento web com HTML5, CSS3 e JavaScript. Desenvolvendo também com PHP e WordPress.</p>
+<p>Estou estudando desenvolvimento web com HTML5, CSS3 e JavaScript. Desenvolvendo também com PHP e WordPress.</p>
 
 <div align="center">
 <a href="https://github.com/lucasnsouza">
