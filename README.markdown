@@ -2,10 +2,10 @@
 
 <h2>Sobre mim</h2>
 <p>Estou estudando desenvolvimento web com HTML5, CSS3 e JavaScript. Desenvolvendo também com PHP e WordPress.</p>
-<div align="center">
+<section align="center">
   <a href="https://github.com/lucasnsouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasnsouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnsouza&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasnsouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnsouza&layout=compact&langs_count=7&theme=github_dark"/>
+</section>
   
 <h4>Languages and tools:</h4>
 <div style="display: inline_block">
